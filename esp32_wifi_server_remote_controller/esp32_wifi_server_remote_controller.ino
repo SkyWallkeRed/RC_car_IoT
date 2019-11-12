@@ -83,8 +83,8 @@ int buttonState2 = 0;         // variable for reading the pushbutton status
 int buttonState3 = 0;         // variable for reading the pushbutton status
 int buttonState4 = 0;         // variable for reading the pushbutton status
 
-  const char* ssid     = "HOTBOX-RDW";
-  const char* password = "d1a9v8i9d";
+  const char* ssid     = "SSID";
+  const char* password = "password";
 
 WiFiServer server(80);
 
