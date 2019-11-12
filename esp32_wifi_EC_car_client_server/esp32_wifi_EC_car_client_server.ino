@@ -40,8 +40,8 @@ int EN_B = 18;      //Enable pin for second motor
 int motor_speed = 1;
 int motor_speed1 = 1;
   
-  const char* ssid     = "HOTBOX-RDW";
-  const char* password = "d1a9v8i9d";
+  const char* ssid     = "SSID";
+  const char* password = "password";
 
 WiFiServer server(80);
 
